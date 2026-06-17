@@ -1,1 +1,1 @@
-print("CI/CD Pipeline Success!")
+print("Version 2")
